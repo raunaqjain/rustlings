@@ -3,5 +3,6 @@ target/
 **/*.rs.bk
 .DS_Store
 *.pdb
+.idea/
 exercises/clippy/Cargo.toml
 exercises/clippy/Cargo.lock
