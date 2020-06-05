@@ -4,11 +4,11 @@
 // I AM NOT DONE
 
 macro_rules! my_macro {
-    () => {
+    (1) => {
         println!("Check out my macro!");
     };
 }
 
 fn main() {
-    my_macro();
+    my_macro!(1);
 }
