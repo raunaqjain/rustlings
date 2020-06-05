@@ -1,3 +1,6 @@
+# Branch exercises
+Personal local branch to keep track of all the exercises completed
+
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 
 # rustlings 🦀❤️ [![Build status](https://badge.buildkite.com/7af93d81dc522c67a1ec8e33ff5705861b1cb36360b774807f.svg)](https://buildkite.com/mokou/rustlings)
